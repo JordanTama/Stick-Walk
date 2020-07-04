@@ -1,1 +1,1 @@
-# StickWalk
+# Stick Walk
